@@ -20,6 +20,3 @@ In the fine-radius sweep, all **325 resolving sets** passed exact validation acr
 
 I co-built Seerlink, the internal app we use at Seeryn to find local businesses, audit their websites, and prioritize outreach. The hosted app requires sign-in.
 
-### [Adaptive Skip Lists](https://github.com/adi0ri/adaptive-skip-lists)
-
-My Master's research prototype uses a small neural network to adjust node promotion in response to access patterns. The notebook includes a synthetic hot-key workload and its saved trace.
